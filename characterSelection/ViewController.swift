@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var redOutlet: UIButton!
     @IBOutlet weak var saberImageView: UIImageView!
     
+    var tester = 5
     //comment test
     
     override func viewDidLoad() {
